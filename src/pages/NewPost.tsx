@@ -1,7 +1,5 @@
 const NewPost = () => {
-  return (
-    <div>NewPost</div>
-  )
+  return <h1>NewPost</h1>
 }
 
 export default NewPost
